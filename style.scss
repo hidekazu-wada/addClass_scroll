@@ -1,0 +1,11 @@
+body {
+    height: 200vh;
+    .target {
+        color: blue;
+        position: fixed;
+        top: 0;
+        &.active {
+            color: red;
+        }
+    }
+}

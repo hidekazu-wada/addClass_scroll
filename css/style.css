@@ -1,0 +1,14 @@
+body {
+  height: 200vh;
+}
+
+body .target {
+  color: blue;
+  position: fixed;
+  top: 0;
+}
+
+body .target.active {
+  color: red;
+}
+/*# sourceMappingURL=style.css.map */
